@@ -1,0 +1,12 @@
+{
+  "name": "larva/wp-cos",
+  "description": "This is a Flysystem adapter for the Tencent COS.",
+  "keywords": [ "flysystem", "tencent", "cos", "larva" ],
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": "^7.2",
+    "qcloud/cos-sdk-v5": "^2.0"
+  },
+  "prefer-stable": true
+}
